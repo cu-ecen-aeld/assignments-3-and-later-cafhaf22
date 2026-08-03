@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 if [ $# -eq 0 ]
 then
     echo "ERROR: No directory path and search string were provided."
